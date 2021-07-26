@@ -1,0 +1,26 @@
+Commented scripts:
+Main.hx
+MainMenuState.hx
+Alphabet.hx
+TitleState.hx
+
+Tested:
+Main.hx
+MainMenuState.hx
+Alphabet.hx
+TitleState.hx
+
+Bugless:
+Main.hx
+MainMenuState.hx
+Alphabet.hx
+TitleState.hx
+
+Done:
+New look for Freeplay is completely functioning (Still WIP tho)
+SMOOTH FREEPLAY SCROLLING, AT LAST !!!!!!!!!!!!
+
+TODO:
+Ghost tapping penalty (Score multiplier decrease if ghost tapped) - Difficult
+Fix alignment of text from the damn menuItem shits in Alphabet.hx - this'll be a pain
+find an actual way to do smooth freeplay without making threads, I beg of you - pain
